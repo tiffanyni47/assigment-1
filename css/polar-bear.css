@@ -3,7 +3,7 @@ body {
   background-color: silver;
 }
 img {
-  height: 300px;
+  width: 300px;
   border-radius: 150px;
   float: left;
   margin-right: 20px;
