@@ -13,3 +13,7 @@ body {
   background-color: salmon;
   text-align: center;
 }
+
+h1 {
+  font-size: 65px;
+}
