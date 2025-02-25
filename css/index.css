@@ -3,6 +3,10 @@ img {
   border-radius: 150px;
 }
 
+div {
+  margin-bottom: 100px;
+}
+
 body {
   font-family: Gill Sans, sans-serif;
   background-color: salmon;
