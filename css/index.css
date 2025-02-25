@@ -1,11 +1,11 @@
 img {
   margin-top: 20px;
-  width: 300px;
-  border-radius: 150px;
+  width: 400px;
+  border-radius: 200px;
 }
 
 div {
-  font-size: 75px;
+  font-size: 65px;
 }
 
 body {
@@ -15,9 +15,13 @@ body {
 }
 
 h1 {
-  font-size: 65px;
+  font-size: 85px;
 }
 
 p {
-  font-size: 25px;
+  font-size: 45px;
+}
+
+h3 {
+  font-size: 50px;
 }
