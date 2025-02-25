@@ -1,6 +1,10 @@
 img {
-  width: 100px;
+  width: 500px;
   border-radius: 50px;
+}
+
+div {
+  margin-bottom: 300px;
 }
 
 body {
